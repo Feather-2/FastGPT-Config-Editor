@@ -1,4 +1,4 @@
-# Config-Editor-of-FastGPT
+# FastGPT-Config-Editor
 
 ## 简介
 
