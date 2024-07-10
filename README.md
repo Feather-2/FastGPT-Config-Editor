@@ -14,7 +14,7 @@
 
 ## 使用方法
 
-1. 确保已安装 Python 和 Streamlit。
+1. 确保已安装 Python, Streamlit(≥1.36.0)与pandas。
 2. 克隆此仓库或下载代码。
 3. 在终端中运行 `streamlit run app.py`。
 4. 在浏览器中访问 `http://localhost:8501` 。
